@@ -30,14 +30,14 @@
 
 ## Disadvantages
 - Results are distorted by unusual claims experience. eg very good/very bad past experience => violates the assumption past is a better representative of future
-    Adjustments are needed because we can't project the unusual experience just as normal experience. It would result in under/over estimation of ultimates
+- Adjustments are needed because we can't project the unusual experience just as normal experience. It would result in under/over estimation of ultimates
 - Limited use of recent cohorts, particularly for long-tailed cohors.
-    Liability classes - there may be no fully developed cohorts available
-    In such cases, estimate tail factor and apply it to most developed cohort
-    We may base this tail factor on the result of fitting a curve to the actual claims development, other info such as benchmarks, or use a different method to estimate the ultimate claims.
-    Alternatives - BF method - incorporates an expectation of ultimate loss, ACPC method - claim number development may run-off quicker than claim amount development
+    * Liability classes - there may be no fully developed cohorts available
+    * In such cases, estimate tail factor and apply it to most developed cohort
+    * We may base this tail factor on the result of fitting a curve to the actual claims development, other info such as benchmarks, or use a different method to estimate the ultimate claims.
+    * Alternatives - BF method - incorporates an expectation of ultimate loss, ACPC method - claim number development may run-off quicker than claim amount development
 - Projection of experience to date that may be light or heavy.
-    Cases where no claims are present or a series of large claims are present
-    Adjustments needed or consider other method
+    * Cases where no claims are present or a series of large claims are present
+    * Adjustments needed or consider other method
 - More care needed to prevent unusual features in the data having a significant impact on the results
-    Cases eg. One-off large loss development distorts the development patterns or calendar-year effect due to changes in claims handling procedures
+    * Cases eg. One-off large loss development distorts the development patterns or calendar-year effect due to changes in claims handling procedures
